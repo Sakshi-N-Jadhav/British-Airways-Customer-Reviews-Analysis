@@ -1,0 +1,4 @@
+# British Airways Customer Reviews Analysis
+
+
+This project focuses on analyzing customer reviews for British Airways collected from March 2016 to October 2023. The aim is to understand customer satisfaction across various service aspects such as food, entertainment, seat comfort, staff service, and geographical regions. By dissecting this data, we aim to identify strengths and areas for improvement, providing British Airways with actionable insights to enhance their services. This comprehensive analysis will help the airline make informed decisions, improve customer experience, and strengthen its reputation by integrating feedback into their strategic planning. The ultimate goal is to create a feedback loop that continuously enhances service quality, leading to increased customer satisfaction and loyalty.
